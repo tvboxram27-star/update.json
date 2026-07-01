@@ -1,6 +1,6 @@
 {
-  "latest_version": 15,
-  "min_supported_version": 14,
+  "latest_version": 1,
+  "min_supported_version": 1,
   "version_name": "1.0.8",
   "force_update": true,
   "download_url": "https://www.mediafire.com/file/pl0iplb5sviplb8/TV.apk/file",
