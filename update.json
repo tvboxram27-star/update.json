@@ -1,0 +1,13 @@
+{
+  "latest_version": 15,
+  "min_supported_version": 14,
+  "version_name": "2.5.0",
+  "force_update": true,
+  "download_url": "https://www.mediafire.com/file/xxxxxxxx/app.apk/file",
+  "downloader_code": "1234567",
+  "changelog": [
+    "Mejoras de rendimiento",
+    "Corrección de errores",
+    "Optimización del player"
+  ]
+}
