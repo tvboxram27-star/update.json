@@ -1,10 +1,10 @@
 {
-  "latest_version": 1,
-  "min_supported_version": 1,
-  "version_name": "1.0.8",
+  "latest_version": 2,
+  "min_supported_version": 2,
+  "version_name": "1.0.1",
   "force_update": true,
-  "download_url": "https://www.mediafire.com/file/pl0iplb5sviplb8/TV.apk/file",
-  "downloader_code": "1234567",
+  "download_url": "https://www.mediafire.com/file/mz2qpewhyaf6fwk/Cablevision.apk/file",
+  "downloader_code": "1409788",
   "changelog": [
     "Mejoras de rendimiento",
     "Corrección de errores",
