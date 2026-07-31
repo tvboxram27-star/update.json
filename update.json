@@ -1,9 +1,9 @@
 {
   "latest_version": 6,
-  "min_supported_version": 6,
+  "min_supported_version": 5,
   "version_name": "1.1.0",
   "force_update": false,
-  "download_url": "https://www.dropbox.com/scl/fi/twve2rp6j0kulv7bnczpb/Cablevision.apk?rlkey=5mgr07b1zmr2joml6y03itufr&st=e1acnaro&e=1&dl=0",
+  "download_url": "https://www.dropbox.com/scl/fi/twve2rp6j0kulv7bnczpb/Cablevision.apk?rlkey=5mgr07b1zmr2joml6y03itufr&st=e1acnaro&e=1&dl=1",
   "downloader_code": "8978614",
   "changelog": [
     "Mejoras de rendimiento",
