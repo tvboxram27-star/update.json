@@ -1,10 +1,10 @@
 {
-  "latest_version": 9,
-  "min_supported_version": 9,
-  "version_name": "1.2.1",
+  "latest_version": 10,
+  "min_supported_version": 10,
+  "version_name": "1.2.2",
   "force_update": false,
-  "download_url": "https://www.dropbox.com/scl/fi/wk8ulot80oeezoirpnpou/Cablevision.apk?rlkey=gft01mrnherc8v9wec6zxwk3x&st=h4mdpds7&dl=1",
-  "downloader_code": "6668582",
+  "download_url": "https://www.dropbox.com/scl/fi/bxsh5yo4jm5vfdeblpnsd/Cablevision.apk?rlkey=r32wez8wc1xuh3biyc7rc6ugl&st=e33iqs4f&dl=1",
+  "downloader_code": "3960178",
   "changelog": [
     "Mejoras de rendimiento",
     "Corrección de errores",
